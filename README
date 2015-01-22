@@ -1,4 +1,4 @@
-Projecte inicial per documentar encara
+-Projecte inicial per documentar encara
 Sóc David
 =======
 hola
@@ -20,11 +20,19 @@ funcio dins de test.js
 
 miau miau miau miau
 guau guau guau guau
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> f5706aedb2e8558074a7e26c28cdc365e994201c
 =======
 Oh la la mon petit commit
 linea per a fer el 2 commit
+>>>>>>> 9d4a425eb9a25c159c0d9505521be1b04b327286
 =======
 
+>>>>>>> 13382ea5c100eb8173f67553d733c9d96810f38c
 
 Oh la la mon petit commit
 
@@ -32,3 +40,10 @@ linea per a fer el 2 commit
 =======
 =======
 
+<<<<<<< HEAD
+dadañl
+=======
+>>>>>>> 0e7a37797f60c9ecd0588a8b845f821feb1ef8d2
+>>>>>>> 15285047ea8dbed52e7324ac916b34728071d139
+=======
+>>>>>>> 13382ea5c100eb8173f67553d733c9d96810f38c
